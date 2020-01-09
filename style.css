@@ -1,0 +1,24 @@
+
+.navbar {
+background-color:orange;
+display:flex;
+font-weight:bold;
+justify-content:space-around;
+}
+.content{
+	display: flex;
+	flex-wrap: wrap;
+	background-color:wheat;
+	width:75%;
+}
+.news{
+	display:flex;
+	flex-direction:column;
+	width: 33%;
+
+}
+body{
+	background-color:wheat;
+}
+
+
